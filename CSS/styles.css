@@ -7,7 +7,7 @@ nav, h1 {
 h1 {
 
   font-family: cursive;
-  font-size: 35px;
+  font-size: 40px;
 
 }
 
@@ -28,7 +28,8 @@ hr {
 
 nav {
 
-  font-size: 20px;
+  font-size: 25px;
+  font-family: garamond;
 
 }
 
@@ -36,13 +37,22 @@ h2.indexh2 {
 
   text-align: center;
   font-family: garamond;
+  text-transform: uppercase;
 
 }
 
-img {
+#biography{
 
-  width: 500px;
-  height: 750px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+p {
+
+  font-family: garamond;
+  font-size: 20px;
 
 }
 
