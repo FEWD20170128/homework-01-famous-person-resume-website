@@ -56,3 +56,33 @@ p {
 
 }
 
+h2.accomplishments {
+
+  font-family: garamond;
+  font-size: 30px;
+
+}
+
+ul {
+
+  font-family: garamond;
+  font-size: 20px;
+
+}
+
+.elizabeth {
+
+  height: 600px;
+  width: 500px;
+  margin-left: 400px;
+
+}
+
+#experience {
+
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
