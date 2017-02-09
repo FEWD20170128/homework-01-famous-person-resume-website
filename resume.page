@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meryl Streep- Top 10</title>
+  <link rel="stylesheet" href="stylesheet.css" type="text/css" media="screen">
+  <nav>
+    <a href="index.html">Bio |</a>
+    <a href="resume.page">Greatest Hits |</a>
+    <a href="http://www.imdb.com/name/nm0000658/">More Info |</a>
+  </nav>
+</head>
+<body background="chinon-super8-moviecamera-6455277-o.jpg">
+  <h1>Meryl Streep</h1>
+  <h2>Resume of Greatness</h2>
+  <h3>Meryl's Top 10 Films</h3>
+  <h4>(Choosing was a Sophie's Choice)</h4>
+  <ol>
+    <li>Kramer vs Kramer</li>
+    <li>The Bridges of Madison County</li>
+    <li>One True Thing</li>
+    <li>Postcards From The Edge</li>
+    <li>Adaptation</li>
+    <li>Evil Angels (A Cry In The Dark)</li>
+    <li>Fantastic Mr. Fox</li>
+    <li>The Deer Hunter</li>
+    <li>Defending Your Life</li>
+    <li>Manhatten</li>
+  </ol>
+  <img src="giphy copy.gif">
+</body>
+</html>
