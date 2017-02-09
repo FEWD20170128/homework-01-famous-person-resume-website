@@ -1,0 +1,48 @@
+h1{
+  Color: indianred;
+  font-family: verdana;
+  text-align: left;
+  font-size: 350%;
+  text-decoration: underline;
+}
+a {
+  font-size: 22px;
+  font-family: lato;
+  color: DarkGray;
+  margin: 5px;
+}
+h3{
+  font-size: 20px;
+  color: #030609;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 42px;
+  color: darkgray;
+}
+h2{
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 40px;
+  color: darkgray;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+  }
+
+  ol{
+    font-family: Lucida Grande;
+    color: darkgray;
+    letter-spacing: 2px;
+    line-height: 1.8;
+  }
+
+  h4{
+    color: darksalmon;
+    font-family: helvetica;
+  }
+  body{
+    border-style: inset; 
+  }
