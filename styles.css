@@ -1,0 +1,69 @@
+body {
+  background-color: #F6F6F6;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 3px 0 yellow;
+  font-family: helvetica;
+}
+
+nav {
+  text-align: center;
+  font-family: verdana;
+}
+
+nav a {
+  text-decoration: none;
+  text-shadow: 2px 0 yellow;
+  color: black;
+}
+
+a:hover {
+  color: red;
+}
+
+a.museum {
+  text-decoration: none;
+}
+
+p.quote {
+  font-family: arial, helvetica, serif;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+p {
+  font-family: arial;
+}
+
+p.work_title {
+  text-align: center; 
+}
+
+img.self {
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  font-family: verdana;
+  font-weight: lighter;
+}
+
+h2.works {
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
+}
+
+img.painting {
+  display: block;
+  margin: auto;
+  height: 400px;
+}
