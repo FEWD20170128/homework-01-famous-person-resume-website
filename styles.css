@@ -40,7 +40,8 @@ body {
 }
 
 .main-body {
-  max-width: 960;
+  max-width: 960px;
+  
 }
 
 .main-body__portrait{
@@ -100,4 +101,14 @@ nav li{
 .footer--nav {
   font-weight: bold;
   font-size: 18px;
+}
+
+.Footer__nav__item {
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+.Footer__nav__item--active {
+  color: red;
+  font-weight: bold;
 }
