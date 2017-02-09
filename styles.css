@@ -1,0 +1,114 @@
+body {
+  background-color: #FFD9D9;
+  margin: 60px;
+  max-width: 960;
+}
+
+* {
+  font-family: "century gothic"; 
+}
+
+.header--headline {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.hr--style {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.main-body--hr__top {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.main-body--hr__bottom{
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  clear: both;
+}
+
+
+.main-body--hr__copy-border
+{ border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.main-body {
+  max-width: 960px;
+  
+}
+
+.main-body__portrait{
+  float: left;
+  padding-bottom: 5%;
+  padding-right: 5%;
+}
+
+.main-body__copy{
+  max-width: 960px;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  font-size: 14px;
+  line-height: 20px;
+  color: #777777;
+}
+
+
+.resume--list {
+  margin-left: 30%;
+  margin-bottom: 5%;
+  margin-right: 10%;
+  clear: both;
+}
+
+ul {
+  list-style: none outside url("images/star.png");
+  max-width: 960;
+  margin-right: 15%;
+
+}
+
+  .resume--list__subhed {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 0px;
+    margin-bottom: 0px;
+  }
+
+  .resume--list__copy {
+    font-size: 14px;
+    color: #777777;
+  }
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin-right: 40px;
+}
+
+nav li{
+  display: inline;
+  float: right;
+}
+
+.footer--nav {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.Footer__nav__item {
+  font-size: 20px;
+  font-family: "Times New Roman";
+}
+
+.Footer__nav__item--active {
+  color: red;
+  font-weight: bold;
+}
