@@ -1,0 +1,32 @@
+body {
+  font-family: Helvetica;
+  font-size: 18px; 
+  line-height: 1.5;
+  padding: 50px;
+  background-color: #eeeeee;
+  text-align: center;
+}
+
+a {
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+
+p {
+  font-family: Helvetica; 
+}
+
+img {
+  width: 960px;
+  margin: 20px 60px 0 60px;
+
+}
+
+img.aboutme {
+  height: 400px; 
+  width: 400px;
+}
