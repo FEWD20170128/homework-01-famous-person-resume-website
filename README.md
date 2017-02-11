@@ -9,7 +9,11 @@ The website should meet the following criteria:
 - Website should have two (2) pages
 
  1) A bio page - short bio
+
+
  2) Experience / Interests page
+
+ 
 
 - Visitors to your website should be able to easily navigate to each page via a link
 - Code for the site should make good use of indentation
