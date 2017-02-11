@@ -1,0 +1,29 @@
+body {
+	background-color: #e0fff8;
+	font-family: calibri, verdana;
+	margin: 30px;
+	padding: 50px;
+	color: black;
+}
+
+
+h1,h2, h3 {
+	text-align: center;
+}
+
+nav a {
+	color: #02f9c8;
+	text-decoration: none;
+}
+
+nav {
+	text-align: center;
+	color: #02f9c8;
+}
+
+
+img {
+width: 550px; 
+
+}
+
