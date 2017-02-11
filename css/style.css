@@ -1,0 +1,112 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 30px;
+  border-bottom: 5px solid #222222;
+  border-top: 5px solid #222222;
+  padding: 50px;
+  background: grey;
+  
+}
+
+
+h1 {
+  color: white;
+  font-family: 'Rock Salt', cursive;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+
+
+
+h2 {
+  background-color: white;
+  font-family: 'Monoton', cursive;
+}
+
+
+
+
+
+
+h3 {
+  color: white;
+  font-size: 24px;
+
+}
+
+h4 {
+  font-family: 'Bungee Inline', cursive;
+
+}
+
+
+p {
+  font-family: 'Cherry Swash', cursive;
+
+
+}
+
+
+hr {
+  border: none;
+  border-top: 1px solid #222222;
+  margin: 30px 0;
+}
+
+
+
+strong {
+  color: white;
+}
+
+
+small {
+  color: yellow;
+}
+
+
+ul.awards {
+  text-align: left;
+  color: white;
+}
+
+
+li strong {
+  color: green;
+}
+
+
+
+img.witnesses {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #222222;
+  padding: 5px;
+  float: right;
+}
+
+
+img.trophy {
+  position: center;
+}
+
+
+
+nav {
+  text-align: center;
+}
+
+
+
+nav a {
+  color: white;
+  font-style: italic;
+ 
+
+}
+
+
