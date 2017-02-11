@@ -1,0 +1,48 @@
+.header {
+  background-color: #228B22;
+  padding: 1em;
+  text-align: center;
+}
+.header__nav {
+  font-weight: bold;
+}
+.nav__links {
+  margin: 0 .5em;
+  color: #FFFFFF;
+  font-family: sans-serif;
+}
+.main {
+  margin: 0 5%;
+}
+.main__h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.main__h2 {
+  font-weight: bold;
+  font-family: sans-serif;
+  border-left: medium solid #228B22;
+  padding: 0 0 0 1em;
+}
+.main__copy {
+  border-left: medium solid #228B22;
+  padding: 0 0 0 1em;
+}
+.main__unordered {
+  background-color: #000000;
+  color: #228B22;
+  padding: 1em 2em;
+  line-height: 1.5;
+}
+.main__listitem {
+  font-weight: bold;
+}
+.footer {
+  background-color: #228B22;
+  padding: .5em .75em;
+}
+.footer__copy {
+  color: #FFFFFF;
+  font-size: .7em;
+}
