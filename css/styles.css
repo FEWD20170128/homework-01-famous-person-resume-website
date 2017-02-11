@@ -1,3 +1,7 @@
+.body {
+  background-color: #CBFDCB;
+
+}
 .header {
   background-color: #228B22;
   padding: 1em;
@@ -8,26 +12,38 @@
 }
 .nav__links {
   margin: 0 .5em;
+  color: #CBFDCB;
+  font-family: 'Signika', sans-serif;
+}
+.nav__links__current {
+  margin: 0 .5em;
   color: #FFFFFF;
-  font-family: sans-serif;
+  font-family: 'Signika', sans-serif;
+  text-decoration: none;
+}
+.nav__links:hover {
+  margin: 0 .5em;
+  color: #d3d3d3;
+  font-family: 'Signika', sans-serif;
 }
 .main {
   margin: 0 5%;
+  width: auto;
 }
 .main__h1 {
   text-align: center;
   font-weight: bold;
-  font-family: sans-serif;
+  font-family: 'Bowlby One SC', sans-serif;
 }
 .main__h2 {
-  font-weight: bold;
-  font-family: sans-serif;
+  font-family: 'Bowlby One SC', sans-serif;
   border-left: medium solid #228B22;
-  padding: 0 0 0 1em;
+  padding: 0 0 0 .5em;
 }
 .main__copy {
   border-left: medium solid #228B22;
   padding: 0 0 0 1em;
+  font-family: 'Signika', sans-serif;
 }
 .main__unordered {
   background-color: #000000;
@@ -37,12 +53,21 @@
 }
 .main__listitem {
   font-weight: bold;
+  font-family: 'Signika', sans-serif;
 }
 .footer {
   background-color: #228B22;
   padding: .5em .75em;
 }
 .footer__copy {
-  color: #FFFFFF;
+  color: #CBFDCB;
   font-size: .7em;
+  font-family: 'Signika', sans-serif;
+}
+.full-width {
+  width: 100%;
+  margin: 1em 0;
+}
+.wide-image {
+  width: 100%;
 }
