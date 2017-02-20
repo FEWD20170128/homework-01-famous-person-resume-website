@@ -5,19 +5,10 @@ body  {
 }
 
 h1  {
-  border-bottom: solid 5px #811818;
-  margin: 15px 5px 15px 5px;
+  border-bottom: 5px solid #811818;
+  margin: 15px 5px;
   padding: 15px;
   font-size: 40px;
-}
-
-.sub-bio  {
-  font-family: "Palatino Linotype";
-}
-
-.used-link  {
-  font-style: italic;
-  text-decoration: none;
 }
 
 hr  {
@@ -31,30 +22,68 @@ img {
   margin: 10px;
 }
 
+a  {
+  color: #811818;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  margin: 5px;
+}
+
+.sub-bio  {
+  font-family: "Palatino Linotype";
+}
+
+.used-link  {
+  font-style: italic;
+  text-decoration: none;
+}
+
+.home-page {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 5px;
+}
+
+.list-opener  {
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 15px;
+}
+
+.miniseries {
+  font-style: italic;
+}
+
+.externalsite {
+  font-weight: bold;
+}
+
 .voldemort  {
   text-decoration: line-through;
   font-weight: bolder;
   font-style: italic;
 }
 
-#bio-pics1 {
+.bio-pics {
   border: none;
   margin: 20px 15px 15px 15px;
   width: 250px;
   height: 250px;
 }
 
-#bio-pics2  {
+.bio-pics2  {
   border: none;
   margin: 20px 15px 15px 15px;
   width: 350px;
-  height: 250px;
-}
-
-#bio-pics3 {
-  border: none;
-  margin: 20px 15px 15px 15px;
-  width: 250px;
   height: 250px;
 }
 
@@ -71,40 +100,4 @@ img {
   padding-top: 20px;
   padding-bottom: 5px;
   margin: 20px 0px 0px 0px;
-}
-
-.home-page {
-  margin-top: 0px;
-  padding-top: 0px;
-  margin-bottom: 5px;
-}
-
-#list-opener  {
-  list-style-type: none;
-  font-size: 18px;
-  font-weight: bold;
-  text-decoration: underline;
-  margin: 15px;
-}
-
-#miniseries {
-  font-style: italic;
-}
-
-.externalsite {
-  font-weight: bold;
-}
-
-a  {
-  color: #811818;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-ul {
-  list-style-position: inside;
-}
-
-li {
-  margin: 5px;
 }
