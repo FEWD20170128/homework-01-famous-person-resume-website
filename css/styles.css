@@ -1,0 +1,103 @@
+body  {
+  font-family: Georgia, Helvetica, serif;
+  text-align: center;
+  background-color: #FDF5E6;
+}
+
+h1  {
+  border-bottom: 5px solid #811818;
+  margin: 15px 5px;
+  padding: 15px;
+  font-size: 40px;
+}
+
+hr  {
+  margin: 15px;
+}
+
+img {
+  border: groove #A91717 10px;
+  width: 650px;
+  height: 400px;
+  margin: 10px;
+}
+
+a  {
+  color: #811818;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+li {
+  margin: 5px;
+}
+
+.sub-bio  {
+  font-family: "Palatino Linotype";
+}
+
+.used-link  {
+  font-style: italic;
+  text-decoration: none;
+}
+
+.home-page {
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-bottom: 5px;
+}
+
+.list-opener  {
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 15px;
+}
+
+.miniseries {
+  font-style: italic;
+}
+
+.externalsite {
+  font-weight: bold;
+}
+
+.voldemort  {
+  text-decoration: line-through;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.bio-pics {
+  border: none;
+  margin: 20px 15px 15px 15px;
+  width: 250px;
+  height: 250px;
+}
+
+.bio-pics2  {
+  border: none;
+  margin: 20px 15px 15px 15px;
+  width: 350px;
+  height: 250px;
+}
+
+.info-paragraphs {
+  font-weight: bold;
+  border: groove 8px #A91717;
+  margin: 30px 45px 30px 45px;
+  padding: 15px;
+}
+
+.main-links   {
+  font-weight: bold;
+  border-top: solid 5px #811818;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  margin: 20px 0px 0px 0px;
+}
