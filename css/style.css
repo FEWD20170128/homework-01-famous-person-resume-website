@@ -24,6 +24,13 @@ nav {
 
 img {
 width: 550px; 
+}
 
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
 }
 
