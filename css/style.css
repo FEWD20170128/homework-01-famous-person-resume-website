@@ -1,0 +1,51 @@
+body {
+  font-family: fantasy, times, georgia;
+  font-size: 18px;
+  line-height: 2;
+  margin: 50px;
+  border-bottom: 5px solid #222222;
+  border-top: 5px solid #222222;
+  padding: 50px;
+  background: #F6F6F6;
+}
+
+a {
+  font-weight: bold;
+  color: red;
+}
+
+small {
+  color: gray;
+}
+
+.Ali {
+  color: black;
+  font-style: italic;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  margin-top: 0;
+}
+
+h2 {
+  color: #030609;
+  text-align: center;
+}
+
+h3 {
+  font-size: 18px;
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+  margin-top: 42px;
+}
+
+nav {
+  color: gray;
+  text-align: center;
+}
