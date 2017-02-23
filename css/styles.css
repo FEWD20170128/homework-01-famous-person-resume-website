@@ -1,0 +1,63 @@
+.body {
+  background-color: #CBFDCB;
+  font-family: sans-serif, Helvetica, Arial;
+}
+.header {
+  background-color: #228B22;
+  padding: 1em;
+  text-align: center;
+}
+.header__nav {
+  font-weight: bold;
+}
+.nav__links {
+  margin: 0 .5em;
+  color: #CBFDCB;
+  font-family: 'Signika';
+}
+.nav__links--current {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.nav__links:hover {
+  color: #d3d3d3;
+}
+.main__h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Bowlby One SC';
+}
+.main__h2, .main__copy {
+  border-left: medium solid #228B22;
+  padding: 0 0 0 .5em;
+  font-family: 'Bowlby One SC';
+}
+.main__copy {
+  padding: 0 0 0 1em;
+  font-family: 'Signika';
+}
+.main__unordered {
+  background-color: #000000;
+  color: #228B22;
+  padding: 1em 2em;
+  line-height: 1.5;
+}
+.main__listitem {
+  font-weight: bold;
+  font-family: 'Signika';
+}
+.footer {
+  background-color: #228B22;
+  padding: .5em .75em;
+}
+.footer__copy {
+  color: #CBFDCB;
+  font-size: .7em;
+  font-family: 'Signika';
+}
+.full-width, .wide-image {
+  width: 100%;
+}
+.full-width {
+  margin: 1em 0;
+}
